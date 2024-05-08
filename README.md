@@ -2,7 +2,7 @@
 
 Sampling involves selecting a subset of elements from a larger population to represent and analyze, commonly used in research or statistics to draw conclusions about the entire group based on the sampled data.
 
-![image](https://github.com/OjaswaniB/sampling_102103417/assets/118871180/9dee92bd-f589-4a74-b889-c6b0fde70850)
+![image](https://github.com/OjaswaniB/sampling_102103417/assets/118871180/a59634d5-c40d-4397-be29-cecb2b3a513b)
 
 ### Dataset
 
